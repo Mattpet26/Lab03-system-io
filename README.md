@@ -18,9 +18,7 @@ Once you are in VS Code, hit the green play button at the top and go through all
 ![image](chal2.PNG)
 
 ## Architecture
-Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information.
+C# and VSC
 
 ## Change Log
-Use this are to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
-
-01-01-2001 4:59pm - Added functionality to add and delete some things. -->
+01/13/2021 - Initial upload
