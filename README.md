@@ -14,8 +14,8 @@ Now that it's on your local machine, fire up VS Code!
 Once you are in VS Code, hit the green play button at the top and go through all the prompts.
 
 ## Example
-![image](../chal1.PNG)
-![image](../chal2.PNG)
+![image](chal1.PNG)
+![image](chal2.PNG)
 
 ## Architecture
 Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information.
